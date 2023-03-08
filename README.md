@@ -6,4 +6,4 @@ The Love Calculator provides a score from 0% to 100% that is meant to be an indi
 
 In this project I used: HTML, CSS & JS
 
-Link: 
+Link: https://love-calculator-virid.vercel.app/
